@@ -4,7 +4,7 @@ this is my code
 
 my name is subhash chandra Lenka
 
-this text is used for the subhash Lenka  dealing with the 
+this text is used for the subhash  dealing with the 
 
 conflict while pulling
 <<<<<<< HEAD
