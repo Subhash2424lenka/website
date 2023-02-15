@@ -8,5 +8,3 @@ this text is used for the dealing with the
 
 conflict while pulling
 this text is used for the dealing with the conflict while pulling
-
-# my-website
