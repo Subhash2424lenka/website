@@ -10,9 +10,4 @@ conflict while pulling
 <<<<<<< HEAD
 <<<<<<< HEAD
 text is used for the subhash chandra lenka  dealing with the conflict while pulling
-=======
-text is used for the  dealing with the conflict while pulling
->>>>>>> newBranch
-=======
-text is used for the chandra  dealing with the conflict while pulling
->>>>>>> newBranch
+
